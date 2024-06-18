@@ -24,7 +24,7 @@ The marketplace has dependencies on multiple technologies.
 
 Welcome to my project! Below are my favorite screenshots related to this project:
 
-<img src="https://github.com/codecrafts1128/Rafffle_FamousFoxes_ReactJS/blob/master/src/assets/screens/3.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/codecrafts1128/Rafffle_FamousFoxes_ReactJS/blob/master/src/assets/screens/4.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/codecrafts1128/Rafffle_FamousFoxes_ReactJS/blob/master/src/assets/screens/6.png" width="250" alt="Screen 4" hspace="5">
+<img src="https://github.com/codecrafts1128/Rafffle_FamousFoxes_ReactJS/blob/master/public/screens/1.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/codecrafts1128/Rafffle_FamousFoxes_ReactJS/blob/master/public/screens/2.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/codecrafts1128/Rafffle_FamousFoxes_ReactJS/blob/master/public/screens/3.png" width="250" alt="Screen 4" hspace="5">
 
 ## Getting Started
 
