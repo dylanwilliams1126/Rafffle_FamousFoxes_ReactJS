@@ -16,7 +16,7 @@ Full process and video lectures on how to create the application can be found he
 
 The marketplace has dependencies on multiple technologies.
 
-* [Website](https://rafffle.famousfoxes.com/) - https://rafffle.famousfoxes.com
+* [Website](https://rafffle.famousfoxes.com/) - Rafffle | Create your own rafffle
 * [Pinata](https://app.pinata.cloud/) - store images, and NFT metadata
 * [Ganache](https://trufflesuite.com/ganache/) - private Blockchain, to run applications locally
 
